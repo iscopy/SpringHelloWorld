@@ -9,6 +9,7 @@ import org.springframework.core.io.ClassPathResource;
 public class MainApp {
 
 	public static void main(String[] args) {
+//		https://github.com/iscopy/SpringHelloWorld
 		//一、ClassPathXmlApplicationContext
 		/*
 		 *第一步是我们使用框架 API ClassPathXmlApplicationContext() 来创建应用程序的上下文。 
